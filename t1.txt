@@ -1,0 +1,59 @@
+[33mcommit 6c3c40556ab4b03e5cd5658441e9cae4e608c919[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 21 17:13:13 2017 +0530
+
+    checkout before amend
+
+[33mcommit 204efc72a37ce8dd208bff49fcbcd8c7ecaa2fcb[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 21 17:04:55 2017 +0530
+
+    amend commit
+
+[33mcommit ce77ec300163c8ae780387e708197a86b0a22004[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 21 16:22:29 2017 +0530
+
+    final commit
+
+[33mcommit 2d535f9267cdd401aa3a9db2be8fb48ae1117e65[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 21 16:19:53 2017 +0530
+
+    final commit
+
+[33mcommit 490a0e3e080c19cd57caf38186f051a59eb24459[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 21 10:15:00 2017 +0530
+
+    commit changes
+
+[33mcommit e41b2cca84dda034fce034b055508c972a460dff[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Thu Apr 20 15:36:49 2017 +0530
+
+    at a time commiting two files
+
+[33mcommit e3452a468700df6dfcaa46dfb87d7f8c36fe0c60[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Thu Apr 20 10:21:26 2017 +0530
+
+    third commit
+
+[33mcommit c9158a0e636b7a5ca91e1aa4ab01ee36d712d51e[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Wed Apr 19 17:50:32 2017 +0530
+
+    second commit
+
+[33mcommit bde49c384c60383ab311f88229289ec267446c01[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 14 15:49:54 2017 +0530
+
+    second commit
+
+[33mcommit 0692f184219181e33ad56d8f0b9d045b54df1761[m
+Author: Snehitha.G <g.snehitha@gmail.com>
+Date:   Fri Apr 14 15:47:19 2017 +0530
+
+    first commit
